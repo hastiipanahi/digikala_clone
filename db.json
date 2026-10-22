@@ -1,0 +1,1115 @@
+{
+    "menu":[
+        {
+          "id": 1,
+          "img": "https://dkstatics-public.digikala.com/digikala-adservice-banners/de9746abec68039fbefdc91f912ef81b466041bd_1786533888.gif?x-oss-process=image?x-oss-process=image/format,webp"
+        }
+    ],
+    "logo":[
+        {
+            "id":2,
+            "img":"./src/images/logo.svg",
+            "img1":"./src/images/svg/search.svg",
+            "text":"جستجو",
+            "img2":"./src/images/svg/arrow.svg",
+            "text1":"ورود | ثبت نام",
+            "img3":"./src/images/svg/shoping.svg"
+        }
+    ],
+    "mega":[
+        {
+            "id":1,
+            "img":"./src/images/svg/bar.svg",
+            "text":"دسته بندی کالاها","dropdown":[
+              {
+                "id": 2,
+                "text": "موبایل","dropdown":[
+                    {
+                        "id":14,
+                        "text":"انتخاب موبایل","dropdown":[
+                            {
+                                "id":18,
+                                "text":"آیفون"
+                            },
+                            {
+                                "id":19,
+                                "text":"آیفون"
+                            },
+                            {
+                                "id":20,
+                                "text":"آیفون"
+                            },
+                            {
+                                "id":21,
+                                "text":"آیفون"
+                            }
+                        ]
+                    },
+                    {
+                        "id":15,
+                        "text":"گوشی بر اساس قیمت","dropdown":[
+                            {
+                                "id":22,
+                                "text":"گوشی ارزان"
+                            },
+                            {
+                              "id": 23,
+                              "text": "گوشی ارزان"
+                            },
+                            {
+                              "id": 24,
+                              "text": "گوشی ارزان"
+                            },
+                            {
+                              "id": 25,
+                              "text": "گوشی ارزان"
+                            }
+                        ]
+                    },
+                    {
+                        "id":16,
+                        "text":"لوازم جانیی موبایل","dropdown":[
+                            {
+                                "id":26,
+                                "text":"شارژر"
+                            },
+                            {
+                              "id": 27,
+                              "text": "شارژر"
+                            },
+                            {
+                              "id": 28,
+                              "text": "شارژر"
+                            },{
+                              "id": 29,
+                              "text": "شارژر"
+                            }
+                        ]
+                    },
+                    {
+                        "id":17,
+                        "text":"داغ ترین ها","dropdown":[
+                            {
+                                "id":30,
+                                "text":"گوشی سامسونگ"
+                            },
+                            {
+                              "id": 31,
+                              "text": "گوشی سامسونگ"
+                            },
+                            {
+                              "id": 32,
+                              "text": "گوشی سامسونگ"
+                            },
+                            {
+                              "id": 33,
+                              "text": "گوشی سامسونگ"
+                            }
+                        ]
+                    }
+                ]
+              },
+              {
+                "id": 3,
+                "text": "لپ تاپ",
+                "dropdown": [
+                  {
+                    "id": 34,
+                    "text": "انتخاب لپ تاپ",
+                    "dropdown": [
+                      {
+                        "id": 35,
+                        "text": "آیفون"
+                      },
+                      {
+                        "id": 36,
+                        "text": "آیفون"
+                      },
+                      {
+                        "id": 37,
+                        "text": "آیفون"
+                      },
+                      {
+                        "id": 38,
+                        "text": "آیفون"
+                      }
+                    ]
+                  },
+                  {
+                    "id": 39,
+                    "text": "لپ تاپ بر اساس قیمت",
+                    "dropdown": [
+                      {
+                        "id": 40,
+                        "text": "لپ تاپ ارزان"
+                      },
+                      {
+                        "id": 41,
+                        "text": "لپ تاپ دانش آموزی"
+                      },
+                      {
+                        "id": 42,
+                        "text": "لپ تاپ ای سوس"
+                      },
+                      {
+                        "id": 43,
+                        "text": "لپ تاپ لنوا"
+                      }
+                    ]
+                  },
+                  {
+                    "id": 44,
+                    "text": "لوازم جانیی لپ تاپ",
+                    "dropdown": [
+                      {
+                        "id": 45,
+                        "text": "شارژر"
+                      },
+                      {
+                        "id": 46,
+                        "text": "شارژر"
+                      },
+                      {
+                        "id": 47,
+                        "text": "شارژر"
+                      },
+                      {
+                        "id": 48,
+                        "text": "شارژر"
+                      }
+                    ]
+                  },
+                  {
+                    "id": 49,
+                    "text": "داغ ترین ها",
+                    "dropdown": [
+                      {
+                        "id": 50,
+                        "text": "لپ تاپ سامسونگ"
+                      },
+                      {
+                        "id": 51,
+                        "text": "لپ تاپ سامسونگ"
+                      },
+                      {
+                        "id": 52,
+                        "text": "لپ تاپ سامسونگ"
+                      },
+                      {
+                        "id": 53,
+                        "text": "لپ تاپ سامسونگ"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": 4,
+                "text": "کالای دیجیتال",
+                "dropdown": [
+                  {
+                    "id": 54,
+                    "text": "انتخاب موبایل",
+                    "dropdown": [
+                      {
+                        "id": 55,
+                        "text": "آیفون"
+                      },
+                      {
+                        "id": 56,
+                        "text": "آیفون"
+                      },
+                      {
+                        "id": 57,
+                        "text": "آیفون"
+                      },
+                      {
+                        "id": 58,
+                        "text": "آیفون"
+                      }
+                    ]
+                  },
+                  {
+                    "id": 15,
+                    "text": "گوشی بر اساس قیمت",
+                    "dropdown": [
+                      {
+                        "id": 59,
+                        "text": "گوشی ارزان"
+                      },
+                      {
+                        "id": 60,
+                        "text": "گوشی ارزان"
+                      },
+                      {
+                        "id": 61,
+                        "text": "گوشی ارزان"
+                      },
+                      {
+                        "id": 62,
+                        "text": "گوشی ارزان"
+                      }
+                    ]
+                  },
+                  {
+                    "id": 16,
+                    "text": "لوازم جانیی موبایل",
+                    "dropdown": [
+                      {
+                        "id": 63,
+                        "text": "شارژر"
+                      },
+                      {
+                        "id": 64,
+                        "text": "شارژر"
+                      },
+                      {
+                        "id": 65,
+                        "text": "شارژر"
+                      },
+                      {
+                        "id": 66,
+                        "text": "شارژر"
+                      }
+                    ]
+                  },
+                  {
+                    "id": 17,
+                    "text": "داغ ترین ها",
+                    "dropdown": [
+                      {
+                        "id": 67,
+                        "text": "گوشی سامسونگ"
+                      },
+                      {
+                        "id": 68,
+                        "text": "گوشی سامسونگ"
+                      },
+                      {
+                        "id": 69,
+                        "text": "گوشی سامسونگ"
+                      },
+                      {
+                        "id": 70,
+                        "text": "گوشی سامسونگ"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": 5,
+                "text": "خانه و آشپزخانه",
+                "dropdown": [
+                  {
+                    "id": 14,
+                    "text": "انتخاب موبایل",
+                    "dropdown": [
+                      {
+                        "id": 71,
+                        "text": "آیفون"
+                      },
+                      {
+                        "id": 72,
+                        "text": "آیفون"
+                      },
+                      {
+                        "id": 73,
+                        "text": "آیفون"
+                      },
+                      {
+                        "id": 74,
+                        "text": "آیفون"
+                      }
+                    ]
+                  },
+                  {
+                    "id": 15,
+                    "text": "گوشی بر اساس قیمت",
+                    "dropdown": [
+                      {
+                        "id": 75,
+                        "text": "گوشی ارزان"
+                      },
+                      {
+                        "id": 76,
+                        "text": "گوشی ارزان"
+                      },
+                      {
+                        "id": 77,
+                        "text": "گوشی ارزان"
+                      },
+                      {
+                        "id": 78,
+                        "text": "گوشی ارزان"
+                      }
+                    ]
+                  },
+                  {
+                    "id": 16,
+                    "text": "لوازم جانیی موبایل",
+                    "dropdown": [
+                      {
+                        "id": 79,
+                        "text": "شارژر"
+                      },
+                      {
+                        "id": 80,
+                        "text": "شارژر"
+                      },
+                      {
+                        "id": 81,
+                        "text": "شارژر"
+                      },
+                      {
+                        "id": 82,
+                        "text": "شارژر"
+                      }
+                    ]
+                  },
+                  {
+                    "id": 17,
+                    "text": "داغ ترین ها",
+                    "dropdown": [
+                      {
+                        "id": 83,
+                        "text": "گوشی سامسونگ"
+                      },
+                      {
+                        "id": 84,
+                        "text": "گوشی سامسونگ"
+                      },
+                      {
+                        "id": 85,
+                        "text": "گوشی سامسونگ"
+                      },
+                      {
+                        "id": 86,
+                        "text": "گوشی سامسونگ"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": 6,
+                "text": "موبایل"
+              },
+              {
+                "id": 7,
+                "text": "لپ تاپ"
+              },
+              {
+                "id": 8,
+                "text": "کالای دیجیتال"
+              },
+              {
+                "id": 9,
+                "text": "خانه و آشپزخانه"
+              },
+              {
+                "id": 10,
+                "text": "موبایل"
+              },
+              {
+                "id": 11,
+                "text": "لپ تاپ"
+              },
+              {
+                "id": 12,
+                "text": "کالای دیجیتال"
+              },
+              {
+                "id": 13,
+                "text": "خانه و آشپزخانه"
+              }
+            ]
+            
+            
+            
+            
+        },
+        { "id":"87",
+          "img": "./src/images/svg/shegeft.svg",
+          "text": "شگفت انگیزها"
+        },
+        {   "id":88,
+            "text":"سوپر مارکت"
+        },
+        {   "id":89,
+            "text":"طلا و نقره دیجیتال"
+        },
+           
+        {  "id":90,
+           "img": "./src/images/svg/mah.svg", 
+        "text": "پر فروش ترین ها" 
+        },
+        {  "id":91,
+          "img": "./src/images/svg/lebas.svg",
+          "text": "دیجی استایل"
+        },
+        {  "id":92,
+          "text": "در دیجی کالا بفروشید"
+        },
+        {   "id":93,
+            "text":"انتخاب آدرس"
+        }
+    
+    ],
+    "slider":[
+      {
+        "id":1,
+        "img":"https://dkstatics-public.digikala.com/digikala-adservice-banners/c8cba12181c99a5851f8d18128d5086642d63001_1786452355.jpg?x-oss-process=image/quality,q_80/format,webp"
+      },
+      {
+        "id":2,
+        "img":"https://dkstatics-public.digikala.com/digikala-adservice-banners/3653242dc16cdc59f40832791f1ca6affa650a74_1786772833.jpg?x-oss-process=image/quality,q_80/format,webp"
+      },
+      {
+        "id":3,
+        "img":"https://dkstatics-public.digikala.com/digikala-adservice-banners/99792d723c107fed50c62d2ffb9e00213dddf367_1786456085.jpg?x-oss-process=image/quality,q_80/format,webp"
+      }
+    ],
+    "category":[
+      {
+        "id": 1,
+        "img": "./src/images/image-1.png",
+        "text":"سوپر مارکت"
+      },
+      {
+        "id": 2,
+        "img": "./src/images/image-2.png",
+        "text":"طلا و نقره دیجیتال"
+
+      },
+      {
+        "id": 3,
+        "img": "./src/images/image-3.png",
+        "text":"حراج دیجی استایل"
+      },
+      {
+        "id": 4,
+        "img": "./src/images/image-4.png",
+        "text":"سوپر مارکت"
+      },
+      {
+        "id": 5,
+        "img": "./src/images/image-5.png",
+        "text":"حراج دیجی استایل"
+      },
+      {
+        "id": 6,
+        "img": "./src/images/image-6.png",
+        "text":"طلا و نقره دیجیتال"
+      },
+      {
+        "id": 7,
+        "img": "./src/images/image-7.png",
+        "text":"دیجی کارت"
+      },
+      {
+        "id": 8,
+        "img": "./src/images/image-1.png",
+        "text":"طلا و نقره دیجیتال"
+      },
+      {
+        "id": 9,
+        "img": "./src/images/image-2.png",
+        "text":"حراج دیجی استایل"
+      }
+    ],
+    "shegeft":[
+      
+      {
+        "id": 1,
+        "img": "./src/images/image-8.png",
+        "text": "کتاب تاریخ مصور ایران باستان اثر احسان رضایی و فاطمه شفیعی‌سروستانی نشر سایان 4 جلدی - جلد 1 تا 4",
+        "text1": "53%",
+        "text2": "1900000",
+        "text3": "4500000",
+        "img1": "./src/images/svg/toman.svg"
+      },
+      {
+        "id": 2,
+        "img": "./src/images/image-9.png",
+        "text": "کتاب تاریخ مصور ایران باستان اثر احسان رضایی و فاطمه شفیعی‌سروستانی نشر سایان 4 جلدی - جلد 1 تا 4",
+        "text1": "20%",
+        "text2": "300000",
+        "text3": "1300000",
+        "img1": "./src/images/svg/toman.svg"
+      },
+      {
+        "id": 3,
+        "img": "./src/images/image-10.png",
+        "text": "کتاب تاریخ مصور ایران باستان اثر احسان رضایی و فاطمه شفیعی‌سروستانی نشر سایان 4 جلدی - جلد 1 تا 4",
+        "text1": "35%",
+        "text2": "7800000",
+        "text3": "4400000",
+        "img1": "./src/images/svg/toman.svg"
+      },
+      {
+        "id": 4,
+        "img": "./src/images/image-8.png",
+        "text": "کتاب تاریخ مصور ایران باستان اثر احسان رضایی و فاطمه شفیعی‌سروستانی نشر سایان 4 جلدی - جلد 1 تا 4",
+        "text1": "12%",
+        "text2": "9800000",
+        "text3": "3200000",
+        "img1": "./src/images/svg/toman.svg"
+      },
+      {
+        "id": 5,
+        "img": "./src/images/image-9.png",
+        "text": "کتاب تاریخ مصور ایران باستان اثر احسان رضایی و فاطمه شفیعی‌سروستانی نشر سایان 4 جلدی - جلد 1 تا 4",
+        "text1": "88%",
+        "text2": "4500000",
+        "text3": "1200000",
+        "img1": "./src/images/svg/toman.svg"
+      },
+      {
+        "id": 6,
+        "img": "./src/images/image-10.png",
+        "text": "کتاب تاریخ مصور ایران باستان اثر احسان رضایی و فاطمه شفیعی‌سروستانی نشر سایان 4 جلدی - جلد 1 تا 4",
+        "text1": "53%",
+        "text2": "1900000",
+        "text3": "4500000",
+        "img1": "./src/images/svg/toman.svg"
+      },
+      {
+        "id": 7,
+        "img": "./src/images/image-8.png",
+        "text": "کتاب تاریخ مصور ایران باستان اثر احسان رضایی و فاطمه شفیعی‌سروستانی نشر سایان 4 جلدی - جلد 1 تا 4",
+        "text1": "53%",
+        "text2": "1900000",
+        "text3": "4500000",
+        "img1": "./src/images/svg/toman.svg"
+      },
+      {
+        "id": 8,
+        "img": "./src/images/image-9.png",
+        "text": "کتاب تاریخ مصور ایران باستان اثر احسان رضایی و فاطمه شفیعی‌سروستانی نشر سایان 4 جلدی - جلد 1 تا 4",
+        "text1": "53%",
+        "text2": "1900000",
+        "text3": "4500000",
+        "img1": "./src/images/svg/toman.svg"
+      },
+      {
+        "id": 9,
+        "img": "./src/images/image-10.png",
+        "text": "کتاب تاریخ مصور ایران باستان اثر احسان رضایی و فاطمه شفیعی‌سروستانی نشر سایان 4 جلدی - جلد 1 تا 4",
+        "text1": "53%",
+        "text2": "1900000",
+        "text3": "4500000",
+        "img1": "./src/images/svg/toman.svg"
+      },
+      {
+        "id": 10,
+        "img": "./src/images/image-10.png",
+        "text": "کتاب تاریخ مصور ایران باستان اثر احسان رضایی و فاطمه شفیعی‌سروستانی نشر سایان 4 جلدی - جلد 1 تا 4",
+        "text1": "53%",
+        "text2": "1900000",
+        "text3": "4500000",
+        "img1": "./src/images/svg/toman.svg"
+      }
+    ],
+    "picture":[
+      {
+        "id": 1,
+        "img": "https://dkstatics-public.digikala.com/digikala-adservice-banners/fa5fc935ab4f5ddd73aa920314fdc4939f890cc9_1786444348.jpg?x-oss-process=image/quality,q_95"
+      },
+      {
+        "id": 2,
+        "img": "https://dkstatics-public.digikala.com/digikala-adservice-banners/fa9155365a58f13d9f311ccc27564ff79061f1a1_1786768917.jpg?x-oss-process=image/quality,q_95"
+      },
+      {
+        "id": 3,
+        "img": "https://dkstatics-public.digikala.com/digikala-adservice-banners/93988fa7958ab841a45b837d9241cf14e9f14cf3_1787046470.jpg?x-oss-process=image/quality,q_95"
+      },
+      {
+        "id": 3,
+        "img": "https://dkstatics-public.digikala.com/digikala-adservice-banners/4cd653950aaf12603e18d5e52de7581ea9daa896_1782805103.jpg?x-oss-process=image/quality,q_95"
+      }
+    ],
+    "adres":[
+      
+      {  "id":1,
+        "img": "https://dkstatics-public.digikala.com/digikala-products/4f9e4d4972d7878c553096e7456e2ee1d1da4bed_1754245493.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80/format,webp",
+        "text": "فلوئید ضدآفتاب بی‌رنگ مای SPF50 مدل Smart Defense مناسب انواع پوست، حجم 50 میلی‌لیتر",
+        "text1": "29%",
+        "text2": "1700000",
+        "text3": "820000"
+      },
+      {  "id":2,
+        "img": "./src/images/image-12.png",
+        "text": "فلوئید ضدآفتاب بی‌رنگ مای SPF50 مدل Smart Defense مناسب انواع پوست، حجم 50 میلی‌لیتر",
+        "text1": "29%",
+        "text2": "1700000",
+        "text3": "820000"
+      },
+      {  "id":3,
+        "img": "./src/images/image-11.jpg",
+        "text": "فلوئید ضدآفتاب بی‌رنگ مای SPF50 مدل Smart Defense مناسب انواع پوست، حجم 50 میلی‌لیتر",
+        "text1": "29%",
+        "text2": "1700000",
+        "text3": "820000"
+        
+      },
+      {  "id":4,
+        "img": "./src/images/image-10.jpg",
+        "text": "فلوئید ضدآفتاب بی‌رنگ مای SPF50 مدل Smart Defense مناسب انواع پوست، حجم 50 میلی‌لیتر",
+        "text1": "29%",
+        "text2": "1700000",
+        "text3": "820000"
+      },
+      { "id":5,
+        "img": "https://dkstatics-public.digikala.com/digikala-products/4f9e4d4972d7878c553096e7456e2ee1d1da4bed_1754245493.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80/format,webp",
+        "text": "فلوئید ضدآفتاب بی‌رنگ مای SPF50 مدل Smart Defense مناسب انواع پوست، حجم 50 میلی‌لیتر",
+        "text1": "29%",
+        "text2": "1700000",
+        "text3": "820000"
+      },
+      { "id":6,
+        "img": "https://dkstatics-public.digikala.com/digikala-products/32d297741c7e8f8872ba6b721a9ca37d98a41788_1754247026.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80/format,webp",
+        "text": "فلوئید ضدآفتاب بی‌رنگ مای SPF50 مدل Smart Defense مناسب انواع پوست، حجم 50 میلی‌لیتر",
+        "text1": "29%",
+        "text2": "1700000",
+        "text3": "820000"
+        
+      },
+      { "id":7,
+        "img": "https://dkstatics-public.digikala.com/digikala-products/bbd607ee3a612dda2baaf12ef62a8ff2dc8a83fa_1602004475.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80/format,webp",
+        "text": "فلوئید ضدآفتاب بی‌رنگ مای SPF50 مدل Smart Defense مناسب انواع پوست، حجم 50 میلی‌لیتر",
+        "text1": "29%",
+        "text2": "1700000",
+        "text3": "820000"
+        
+      },
+      { "id":8,
+        "img": "https://dkstatics-public.digikala.com/digikala-products/bbd607ee3a612dda2baaf12ef62a8ff2dc8a83fa_1602004475.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80/format,webp",
+        "text": "فلوئید ضدآفتاب بی‌رنگ مای SPF50 مدل Smart Defense مناسب انواع پوست، حجم 50 میلی‌لیتر",
+        "text1": "29%",
+        "text2": "1700000",
+        "text3": "820000"
+      
+      },
+      {  "id":9,
+        "img": "https://dkstatics-public.digikala.com/digikala-products/5233d3f6cfeca2904e6f006bbcc18aeff43ca289_1669625068.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80/format,webp",
+        "text": "فلوئید ضدآفتاب بی‌رنگ مای SPF50 مدل Smart Defense مناسب انواع پوست، حجم 50 میلی‌لیتر",
+        "text1": "29%",
+        "text2": "1700000",
+        "text3": "820000"
+        
+      }
+    ],
+    "product":[
+      {
+        "id": 1,
+        "img": "https://dkstatics-public.digikala.com/digikala-admin-landing/09a98a13c782e12a245930b4515d243b17734a33_1740821989.jpg?x-oss-process=image/format,webp",
+        "text": "موبایل",
+        "img1": "https://dkstatics-public.digikala.com/digikala-mega-menu/7cf1fed6dac6bdfd1b888db6bf8f443ea680244b_1748692252.jpg?x-oss-process=image/format,webp",
+        "text1": "لپ تاپ"
+      },
+      {
+        "id": 2,
+        "img": "https://dkstatics-public.digikala.com/digikala-admin-landing/09a98a13c782e12a245930b4515d243b17734a33_1740821989.jpg?x-oss-process=image/format,webp",
+        "text": "موبایل",
+        "img1": "https://dkstatics-public.digikala.com/digikala-mega-menu/7cf1fed6dac6bdfd1b888db6bf8f443ea680244b_1748692252.jpg?x-oss-process=image/format,webp",
+        "text1": "لپ تاپ"
+      },
+      {
+        "id": 3,
+        "img": "https://dkstatics-public.digikala.com/digikala-admin-landing/09a98a13c782e12a245930b4515d243b17734a33_1740821989.jpg?x-oss-process=image/format,webp",
+        "text": "موبایل",
+        "img1": "https://dkstatics-public.digikala.com/digikala-mega-menu/7cf1fed6dac6bdfd1b888db6bf8f443ea680244b_1748692252.jpg?x-oss-process=image/format,webp",
+        "text1": "لپ تاپ"
+      },
+      {
+        "id": 4,
+        "img": "https://dkstatics-public.digikala.com/digikala-admin-landing/7adb0cc6edc18a6d04b9ba3bdd424b1bcce47848_1740821986.jpg?x-oss-process=image/format,webp",
+        "text": "کالای خوراکی",
+        "img1": "https://dkstatics-public.digikala.com/digikala-admin-landing/7adb0cc6edc18a6d04b9ba3bdd424b1bcce47848_1740821986.jpg?x-oss-process=image/format,webp",
+        "text1": "کالای خوراکی"
+      },
+      {
+        "id": 5,
+        "img": "https://dkstatics-public.digikala.com/digikala-admin-landing/09a98a13c782e12a245930b4515d243b17734a33_1740821989.jpg?x-oss-process=image/format,webp",
+        "text": "موبایل",
+        "img1": "https://dkstatics-public.digikala.com/digikala-mega-menu/7cf1fed6dac6bdfd1b888db6bf8f443ea680244b_1748692252.jpg?x-oss-process=image/format,webp",
+        "text1": "لپ تاپ"
+      },
+      {
+        "id": 6,
+        "img": "https://dkstatics-public.digikala.com/digikala-admin-landing/09a98a13c782e12a245930b4515d243b17734a33_1740821989.jpg?x-oss-process=image/format,webp",
+        "text": "موبایل",
+        "img1": "https://dkstatics-public.digikala.com/digikala-mega-menu/7cf1fed6dac6bdfd1b888db6bf8f443ea680244b_1748692252.jpg?x-oss-process=image/format,webp",
+        "text1": "لپ تاپ"
+      },
+      {
+        "id": 7,
+        "img": "https://dkstatics-public.digikala.com/digikala-admin-landing/09a98a13c782e12a245930b4515d243b17734a33_1740821989.jpg?x-oss-process=image/format,webp",
+        "text": "موبایل",
+        "img1": "https://dkstatics-public.digikala.com/digikala-admin-landing/78135af4274ad7b7fcdaec7e5912689e5f5db96a_1740821985.jpg?x-oss-process=image/format,webp",
+        "text1": "طلا و نقره"
+      },
+      {
+        "id": 8,
+        "img": "https://dkstatics-public.digikala.com/digikala-admin-landing/09a98a13c782e12a245930b4515d243b17734a33_1740821989.jpg?x-oss-process=image/format,webp",
+        "text": "موبایل",
+        "img1": "https://dkstatics-public.digikala.com/digikala-mega-menu/7cf1fed6dac6bdfd1b888db6bf8f443ea680244b_1748692252.jpg?x-oss-process=image/format,webp",
+        "text1": "لپ تاپ"
+      },
+      {
+        "id": 9,
+        "img": "https://dkstatics-public.digikala.com/digikala-admin-landing/09a98a13c782e12a245930b4515d243b17734a33_1740821989.jpg?x-oss-process=image/format,webp",
+        "text": "موبایل",
+        "img1": "https://dkstatics-public.digikala.com/digikala-admin-landing/78135af4274ad7b7fcdaec7e5912689e5f5db96a_1740821985.jpg?x-oss-process=image/format,webp",
+        "text1": "طلا و نقره"
+      },{
+        "id": 10,
+        "img": "https://dkstatics-public.digikala.com/digikala-admin-landing/09a98a13c782e12a245930b4515d243b17734a33_1740821989.jpg?x-oss-process=image/format,webp",
+        "text": "موبایل",
+        "img1": "https://dkstatics-public.digikala.com/digikala-mega-menu/7cf1fed6dac6bdfd1b888db6bf8f443ea680244b_1748692252.jpg?x-oss-process=image/format,webp",
+        "text1": "لپ تاپ"
+      }
+    ],
+    "vitamin":[
+      {
+        "id":1,
+        "img":"https://dkstatics-public.digikala.com/digikala-products/9a50de988e334badbc09fdfdc365e4cb35aa290d_1603007772.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80/format,webp",
+        "text":"کپسول فرودین هولیستیکا بسته 32 عددی ",
+        "text1":"39%",
+        "text2":"1700000",
+        "text3":"1300000",
+        "img1":"./src/images/svg/toman.svg"
+      },
+      {
+        "id": 2,
+        "img": "https://dkstatics-public.digikala.com/digikala-products/c64720f4446aa94b873dab4ae35091bc3f0fcc22_1637680139.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80/format,webp",
+        "text": "کپسول فرودین هولیستیکا بسته 32 عددی ",
+        "text1": "39%",
+        "text2": "1700000",
+        "text3": "1300000",
+        "img1": "./src/images/svg/toman.svg"
+      },
+      {
+        "id": 3,
+        "img": "https://dkstatics-public.digikala.com/digikala-products/c2db653cfabe404e1d0225ac31ffb68853ff7d31_1602596054.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80/format,webp",
+        "text": "کپسول فرودین هولیستیکا بسته 32 عددی ",
+        "text1": "39%",
+        "text2": "1700000",
+        "text3": "1300000",
+        "img1": "./src/images/svg/toman.svg"
+      },
+      {
+        "id": 4,
+        "img": "https://dkstatics-public.digikala.com/digikala-products/82816f40394046483de2a5fff20f81b543ea59e9_1693749874.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80/format,webp",
+        "text": "کپسول فرودین هولیستیکا بسته 32 عددی ",
+        "text1": "39%",
+        "text2": "1700000",
+        "text3": "1300000",
+        "img1": "./src/images/svg/toman.svg"
+      },
+      {
+        "id": 5,
+        "img": "https://dkstatics-public.digikala.com/digikala-products/9a50de988e334badbc09fdfdc365e4cb35aa290d_1603007772.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80/format,webp",
+        "text": "کپسول فرودین هولیستیکا بسته 32 عددی ",
+        "text1": "39%",
+        "text2": "1700000",
+        "text3": "1300000",
+        "img1": "./src/images/svg/toman.svg"
+      },
+      {
+        "id": 6,
+        "img": "https://dkstatics-public.digikala.com/digikala-products/9a50de988e334badbc09fdfdc365e4cb35aa290d_1603007772.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80/format,webp",
+        "text": "کپسول فرودین هولیستیکا بسته 32 عددی ",
+        "text1": "39%",
+        "text2": "1700000",
+        "text3": "1300000",
+        "img1": "./src/images/svg/toman.svg"
+      },
+      {
+        "id": 7,
+        "img": "https://dkstatics-public.digikala.com/digikala-products/9a50de988e334badbc09fdfdc365e4cb35aa290d_1603007772.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80/format,webp",
+        "text": "کپسول فرودین هولیستیکا بسته 32 عددی ",
+        "text1": "39%",
+        "text2": "1700000",
+        "text3": "1300000",
+        "img1": "./src/images/svg/toman.svg"
+      },
+      {
+        "id": 8,
+        "img": "https://dkstatics-public.digikala.com/digikala-products/9a50de988e334badbc09fdfdc365e4cb35aa290d_1603007772.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80/format,webp",
+        "text": "کپسول فرودین هولیستیکا بسته 32 عددی ",
+        "text1": "39%",
+        "text2": "1700000",
+        "text3": "1300000",
+        "img1": "./src/images/svg/toman.svg"
+      },
+      {
+        "id": 9,
+        "img": "https://dkstatics-public.digikala.com/digikala-products/9a50de988e334badbc09fdfdc365e4cb35aa290d_1603007772.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80/format,webp",
+        "text": "کپسول فرودین هولیستیکا بسته 32 عددی ",
+        "text1": "39%",
+        "text2": "1700000",
+        "text3": "1300000",
+        "img1": "./src/images/svg/toman.svg"
+      }
+    ],
+    "final":[
+      {
+        "id":1,
+        "img":"./src/images/logo.svg",
+        "text":"بازگشت به بالا",
+        "text1":"تلفن پشتیبانی ۶۱۹۳۰۰۰۰ - ۰۲۱",
+        "text2":"۰۲۱-۹۱۰۰۰۱۰۰",
+        "text3":"۷ روز هفته، ۲۴ ساعته پاسخگوی شما هستیم",
+        "img1":"./src/images/svg/experes.svg",
+        "text4":"اﻣﮑﺎن ﺗﺤﻮﯾﻞ اﮐﺴﭙﺮس",
+        "img2":"./src/images/svg/pardakht.svg",
+        "text5":"امکان پرداخت در محل",
+        "img3":"./src/images/svg/hafte.svg",
+        "text6":"۷ روز ﻫﻔﺘﻪ، ۲۴ ﺳﺎﻋﺘﻪ",
+        "img4":"./src/images/svg/asl.svg",
+        "text7":"هفت روز ضمانت بازگشت کالا",
+        "img5":"./src/images/svg/bazgasht.svg",
+        "text8":"ﺿﻤﺎﻧﺖ اﺻﻞ ﺑﻮدن ﮐﺎﻟﺎ"
+      }
+    ],
+    
+    "toeter":[
+      {
+        "id": 1,
+        "text": "اتاق خبر دیجی‌کالا",
+        "text1": "فروش در دیجی‌کالا",
+        "text2": "فرصت‌های شغلی",
+        "text3": "گزارش تخلف در دیجی‌کالا",
+        "text4": "تماس با دیجی‌کالا",
+        "text5": "درباره دیجی‌کالا",
+        "text6": "شرایط استفاده",
+        "text7": "شرایط استفاده",
+        "text8": "فروش در دیجی‌کالا",
+        "text9": "شیوه‌های پرداخت",
+        "text10": "فرصت‌های شغلی",
+        "text11": "تماس با دیجی‌کالا",
+        "text12": "گزارش تخلف در دیجی‌کالا",
+        "text13": "درباره دیجی‌کالا",
+        "text14": "فروش در دیجی‌کالا",
+        "text15": "فرصت‌های شغلی",
+        "text16": "درباره دیجی‌کالا",
+        "text17": "همراه ما باشید!",
+        "img": "./src/images/svg/tik.svg",
+        "img1": "./src/images/svg/in.svg",
+        "img2": "./src/images/svg/final11.svg",
+        "img3": "./src/images/svg/toeet.svg",
+        "img4": "./src/images/svg/final111.svg",
+        "img5":"./src/images/svg/final11.svg",
+        "text18":"با ثبت ایمیل، از جدید‌ترین تخفیف‌ها با‌خبر شوید",
+        "text19":"ایمیل شما",
+        "text20":"ثبت"
+        
+      }
+    ],
+    "donload":[
+      {
+        "id":1,
+        "img":"./src/images/logo-digi.jpg",
+        "text":" دانلود اپلیکیشن دیجی‌کالا",
+        "img1":"https://www.digikala.com/statics/img/svg/appStores/coffe-bazzar.svg",
+        "img2":"https://www.digikala.com/statics/img/svg/appStores/myket.svg",
+        "img3":"https://www.digikala.com/statics/img/svg/appStores/sib-app.svg",
+        "img4":"https://www.digikala.com/statics/img/svg/More.svg",
+        "text1":"دیجی کالا؛ بزرگترین فروشگاه اینترنتی ایران",
+        "text2":"دیجی کالا سال‌ها است که به انتخاب اول بسیاری از خریداران اینترنتی تبدیل شده است. دیجی کالا به عنوان بزرگ‌ترین و معتبرترین فروشگاه آنلاین ایران، شناخته‌شده‌ترین فروشگاه نیز محسوب می‌شود. این فروشگاه آنلاین نه‌تنها گسترده‌ترین تنوع کالا را در دسته‌بندی‌های مختلف ارائه می‌دهد، بلکه با خدمات بی‌نظیر، ارسال سریع، ضمانت اصل بودن کالا و پشتیبانی حرفه‌ای، استاندارد جدیدی در خرید اینترنتی ایران تعریف کرده است. این فروشگاه با سال‌ها تجربه و اعتماد مشتریان، کامل‌ترین و بهترین گزینه برای خرید آنلاین در ایران محسوب می‌شود. این روزها ",
+        "img5":"https://www.digikala.com/statics/img/png/sapra.webp",
+        "img6":"https://www.digikala.com/statics/img/png/rezi.webp",
+        "img7":"https://www.digikala.com/statics/img/png/kasbokar.webp",
+        "img8":"https://trustseal.enamad.ir/logo.aspx?id=19077&Code=sScdOJOzhFxtcEqkjP7P",
+        "text3":"مشاهده بیشتر",
+        "text4":"برای استفاده از مطالب دیجی‌کالا، داشتن «هدف غیرتجاری» و ذکر «منبع» کافیست. تمام حقوق اين وب‌سايت نیز برای شرکت نوآوران فن آوازه (فروشگاه آنلاین دیجی‌کالا) است."
+      }
+    ],
+    "zed":[
+      {
+        "id": 1,
+        "img": "https://dkstatics-public.digikala.com/digikala-static/4801e91f7b612493262538e3fad2d1d268f7e9f0_1758969413.svg",
+        "img1": "./src/images/image-20.svg",
+        "img2": "./src/images/image-21.svg",
+        "img3": "https://www.digikala.com/statics/img/svg/footer/digiclub.svg",
+        "img4":"https://www.digikala.com/statics/img/svg/footer/jet.svg",
+        "img5":"https://www.digikala.com/statics/img/svg/footer/digiMehr.svg",
+        "img6":"https://www.digikala.com/statics/img/svg/footer/smartech.svg",
+        "img7":"https://dkstatics-public.digikala.com/digikala-static/d71fbbf34e40eca5197d564c70539434cc21a37c_1758969423.svg",
+        "img8":"https://dkstatics-public.digikala.com/digikala-static/e7661075abe11edde27e6d550c3507756122e1cf_1758969434.svg",
+        "img9":"https://dkstatics-public.digikala.com/digikala-static/9814bb50f330280b887fe545a6074cc72f33388e_1758978427.svg",
+        "img10":"https://www.digikala.com/statics/img/svg/footer/digital-gold.svg",
+        "img11":"https://dkstatics-public.digikala.com/digikala-static/4801e91f7b612493262538e3fad2d1d268f7e9f0_1758969413.svg",
+        "img12":"https://www.digikala.com/statics/img/svg/footer/digipay.svg",
+        "img13":"https://www.digikala.com/statics/img/svg/footer/digistyle.svg",
+        "img14":"https://www.digikala.com/statics/img/svg/footer/digiplus.svg",
+        "img15":"https://www.digikala.com/statics/img/svg/footer/digiclub.svg",
+        "img16":"https://www.digikala.com/statics/img/svg/footer/jet.svg",
+        "img17":"https://www.digikala.com/statics/img/svg/footer/digiMehr.svg"
+
+      }
+    ],
+    "barm":[
+      {
+        "id": 1,
+        "img": "./src/images/image-mo.png",
+        "text": "سرویس ها"
+      },
+      {
+        "id": 2,
+        "img": "./src/images/image-mo1.png",
+        "text": "دیجی کالا"
+      },
+      {
+        "id": 3,
+        "img": "./src/images/image-mo2.png",
+        "text": "سوپر مارکت"
+      },
+      {
+        "id": 4,
+        "img": "./src/images/image-mo3.png",
+        "text": "طلا و نقره"
+      },
+      {
+        "id": 5,
+        "img": "./src/images/image-mo4.png",
+        "text": "بازار"
+      }
+    ],
+    "searchmo":[
+      {
+        "id":1,
+        "text":"جستجو در",
+        "img":"./src/images/svg/camera.svg",
+        "text1":"دیجی کالا",
+        "text2":"انتخاب آدرس"
+      }
+    ],
+    "shegeftmobile":[
+      {
+        "id":1,
+        "img":"./src/images/image-mo5.png",
+        "text":"لیزر پوینتر کینگ لیزر مدل YL-303",
+        "text1":"33%",
+        "text2":"120000",
+        "text3":"500000"
+      },
+      {
+        "id": 2,
+        "img": "./src/images/image-mo5.png",
+        "text": "لیزر پوینتر کینگ لیزر مدل YL-303",
+        "text1": "33%",
+        "text2": "120000",
+        "text3": "500000"
+      },
+      {
+        "id": 3,
+        "img": "./src/images/image-mo5.png",
+        "text": "لیزر پوینتر کینگ لیزر مدل YL-303",
+        "text1": "33%",
+        "text2": "120000",
+        "text3": "500000"
+      },
+      {
+        "id": 4,
+        "img": "./src/images/image-mo5.png",
+        "text": "لیزر پوینتر کینگ لیزر مدل YL-303",
+        "text1": "33%",
+        "twxt2": "120000",
+        "text3": "500000"
+      }
+    ],
+    "adresmobile":[
+      {
+        "id":1,
+        "img":"./src/images/image-10.jpg",
+        "text":"هدفون بلوتوثی انکر مدل SoundCore R50i A3949 بدون قابلیت نویز کنسلینگ، درگاه شارژ USB Type-C، دارای فناوری AI-Enhanced Calls برای کاهش نویز و بهبود مکالمات، مقاوم در برابر رطوبت و عرق",
+        "text1":"40%",
+        "text2":"200000",
+        "text3":"120000"
+        
+      },
+       {
+         "id": 2,
+         "img": "./src/images/image-11.jpg",
+         "text": "هدفون بلوتوثی انکر مدل SoundCore R50i A3949 بدون قابلیت نویز کنسلینگ، درگاه شارژ USB Type-C، دارای فناوری AI-Enhanced Calls برای کاهش نویز و بهبود مکالمات، مقاوم در برابر رطوبت و عرق",
+         "text1": "40%",
+         "text2": "200000",
+         "text3": "120000"
+       },
+        {
+          "id": 3,
+          "img": "./src/images/image-10.jpg",
+          "text": "هدفون بلوتوثی انکر مدل SoundCore R50i A3949 بدون قابلیت نویز کنسلینگ، درگاه شارژ USB Type-C، دارای فناوری AI-Enhanced Calls برای کاهش نویز و بهبود مکالمات، مقاوم در برابر رطوبت و عرق",
+          "text1": "40%",
+          "text2": "200000",
+          "text3": "120000"
+        },
+         {
+           "id": 4,
+           "img": "./src/images/image-11.jpg",
+           "text": "هدفون بلوتوثی انکر مدل SoundCore R50i A3949 بدون قابلیت نویز کنسلینگ، درگاه شارژ USB Type-C، دارای فناوری AI-Enhanced Calls برای کاهش نویز و بهبود مکالمات، مقاوم در برابر رطوبت و عرق",
+           "text1": "40%",
+           "text2": "200000",
+           "text3": "120000"
+         }
+    ],
+    "vitaminmobile":[
+      {
+        "id": 1,
+        "img": "./src/images/image-11.jpg",
+        "text": "کپسول فرودین هولیستیکا بسته 32 عددی ",
+        "text1": "31%",
+        "text2": "540000",
+        "text3": "400000"
+      },
+      {
+        "id": 2,
+        "img": "./src/images/image-12.png",
+        "text": "کپسول فرودین هولیستیکا بسته 32 عددی ",
+        "text1": "31%",
+        "text2": "540000",
+        "text3": "400000"
+      },
+      {
+        "id": 3,
+        "img": "./src/images/image-11.jpg",
+        "text": "کپسول فرودین هولیستیکا بسته 32 عددی ",
+        "text1": "31%",
+        "text2": "540000",
+        "text3": "400000"
+      }
+    ],
+    "finalmobile":[
+       {
+         "id": 1,
+         "text": "رفتن به بالا",
+         "img": "./src/images/svg/rabet.svg",
+         "text1": "۷ روز هفته، ۲۴ ساعت",
+         "text2": "تماس",
+         "img1": "./src/images/logo-digi.jpg",
+         "text3": "تجربه خرید بهتر در",
+         "text4": "دانلود",
+         "text5": "با دیجی کالا",
+         "text6": "خدمات مشتریان",
+         "text7": "راهنمای خرید از دیجی‌کالا",
+         "text8": "شرکای تجاری",
+         "text9": "دیجی کالا؛ بزرگترین فروشگاه اینترنتی ایران",
+         "text10": "دیجی کالا سال‌ها است که به انتخاب اول بسیاری از خریداران اینترنتی تبدیل شده است. دیجی کالا به عنوان بزرگ‌ترین و معتبرترین فروشگاه آنلاین ایران، شناخته‌شده‌ترین فروشگاه نیز محسوب می‌شود. این فروشگاه آنلاین نه‌تنها گسترده‌ترین تنوع کالا را در دسته‌بندی‌های مختلف ارائه می‌دهد، بلکه با خدمات بی‌نظیر، ارسال سریع، ضمانت اصل بودن کالا و پشتیبانی حرفه‌ای، استاندارد جدیدی در خرید اینترنتی ایران تعریف کرده است. این فروشگاه با سال‌ها تجربه و اعتماد مشتریان، کامل‌ترین و بهترین گزینه برای خرید آنلاین در ایران محسوب می‌شود. این روزها ",
+         "text11": "مشاهده بیشتر",
+         "img2": "./src/images/logo-digi.jpg",
+         "text12": "تجربه خرید بهتر",
+         "text13": "دانلود",
+         "text14": "خانه",
+         "text15": "دسته بندی",
+         "text16":"سبد خرید",
+         "text17": "مگنت",
+         "text18": "دیجی کالا"
+         
+       }
+    ]
+    
+
+}

@@ -1,0 +1,1 @@
+export const SET_SEARCHMO = "SET_SEARCHMO";

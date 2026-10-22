@@ -1,0 +1,1 @@
+export const SET_ADRESMOBILE = "SET_ADRESMOBILE";

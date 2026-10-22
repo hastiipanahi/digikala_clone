@@ -1,0 +1,1 @@
+export const SET_MEGA = "SET_MEGA";
